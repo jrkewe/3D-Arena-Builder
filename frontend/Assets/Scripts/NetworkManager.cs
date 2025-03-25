@@ -1,3 +1,4 @@
+using System.IO;
 using UnityEngine;
 using WebSocketSharp;
 
@@ -5,12 +6,36 @@ public class NetworkManager : MonoBehaviour
 {
     private WebSocket ws;
     private string playerID;
+    private static string filePath => Application.persistentDataPath + "/playerID.json";
+
+    private void Awake()
+    {
+        if (File.Exists(filePath))
+        {
+            playerID = File.ReadAllText(filePath);
+        }
+        else { 
+            playerID = System.Guid.NewGuid().ToString();
+            File.WriteAllText(filePath, playerID);
+        }
+    }
 
     void Start()
     {
-        playerID = PlayerPrefs.GetString("playerID", System.Guid.NewGuid().ToString());
-        PlayerPrefs.SetString("playerID", playerID);
-        PlayerPrefs.Save();
+        //if (!PlayerPrefs.HasKey("playerID"))
+        //{
+        //    playerID = System.Guid.NewGuid().ToString();
+        //    PlayerPrefs.SetString("playerID", playerID);
+        //    PlayerPrefs.Save();
+        //}
+        //else {
+        //    playerID = PlayerPrefs.GetString("playerID");
+        //}
+        //Debug.Log($"Uzywane ID gracza: {playerID}");
+
+        //playerID = PlayerPrefs.GetString("playerID", System.Guid.NewGuid().ToString());
+        //PlayerPrefs.SetString("playerID", playerID);
+        //PlayerPrefs.Save();
 
         ws = new WebSocket("ws://localhost:3000");
 
