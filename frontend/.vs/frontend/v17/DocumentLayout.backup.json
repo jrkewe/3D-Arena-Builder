@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\assets\\scripts\\network\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\assets\\scripts\\network\\inetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\inetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|c:\\users\\jrkew\\unity\\repository\\3d-arena-builder\\frontend\\assets\\scripts\\network\\iwebsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\iwebsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\assets\\scripts\\network\\websocketnetworkservicecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\websocketnetworkservicecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7E870A4-77E9-DBFF-B8CA-9EAB4F222277}|Assembly-CSharp-Editor.csproj|C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\assets\\scripts\\network\\tests\\editor\\websocketnetworkservicecomponenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F7E870A4-77E9-DBFF-B8CA-9EAB4F222277}|Assembly-CSharp-Editor.csproj|c:\\users\\jrkew\\unity\\repository\\3d-arena-builder\\frontend\\assets\\scripts\\network\\tests\\editor\\websocketnetworkservicecomponenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7E870A4-77E9-DBFF-B8CA-9EAB4F222277}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\network\\tests\\editor\\websocketnetworkservicecomponenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|c:\\users\\jrkew\\unity\\repository\\3d-arena-builder\\frontend\\assets\\scripts\\network\\iwebsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\iwebsocket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\assets\\scripts\\network\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|c:\\users\\jrkew\\unity\\repository\\3d-arena-builder\\frontend\\assets\\scripts\\network\\websocketwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\websocketwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\assets\\scripts\\network\\inetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C0EEFD-4839-F783-705C-84FE6914F44C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\network\\inetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,59 +42,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WebSocketWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\WebSocketWrapper.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\WebSocketWrapper.cs",
-              "ToolTip": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\WebSocketWrapper.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Network\\WebSocketWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T12:07:45.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "IWebSocket.cs",
               "DocumentMoniker": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\IWebSocket.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\IWebSocket.cs",
               "ToolTip": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\IWebSocket.cs",
               "RelativeToolTip": "Assets\\Scripts\\Network\\IWebSocket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T12:04:35.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "WebSocketNetworkServiceComponentTests.cs",
               "DocumentMoniker": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\Tests\\Editor\\WebSocketNetworkServiceComponentTests.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\Tests\\Editor\\WebSocketNetworkServiceComponentTests.cs",
               "ToolTip": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\Tests\\Editor\\WebSocketNetworkServiceComponentTests.cs",
               "RelativeToolTip": "Assets\\Scripts\\Network\\Tests\\Editor\\WebSocketNetworkServiceComponentTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T11:46:25.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WebSocketNetworkServiceComponent.cs",
               "DocumentMoniker": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\WebSocketNetworkServiceComponent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\WebSocketNetworkServiceComponent.cs",
               "ToolTip": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\WebSocketNetworkServiceComponent.cs",
               "RelativeToolTip": "Assets\\Scripts\\Network\\WebSocketNetworkServiceComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T11:34:51.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "INetworkService.cs",
               "DocumentMoniker": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\INetworkService.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\INetworkService.cs",
@@ -106,21 +89,19 @@
               "RelativeToolTip": "Assets\\Scripts\\Network\\INetworkService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T11:26:28.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T11:26:28.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "NetworkManager.cs",
               "DocumentMoniker": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\NetworkManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Network\\NetworkManager.cs",
               "ToolTip": "C:\\Users\\jrkew\\Unity\\Repository\\3D-Arena-Builder\\frontend\\Assets\\Scripts\\Network\\NetworkManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\Network\\NetworkManager.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA1wBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T11:13:24.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T11:13:24.137Z"
             }
           ]
         }
